@@ -1,4 +1,3 @@
-![mahua](liuchentu.png)
 ## 功能
 根据errocode的返回值设计接口用例集，检查接口的容错性。
 
