@@ -11,7 +11,7 @@
     <!-- jmeter生成html格式的结果报告的路径-->
     <property name="jmeter.result.html.dir" value="/data/jemeter/" />
     <!-- 生成的报告的前缀 -->
-    <property name="ReportName" value="唐唐人才网" />
+    <property name="ReportName" value="我是菜鸟" />
     <property name="jmeter.result.jtlName" value="${jmeter.result.jtl.dir}/${ReportName}${time}.jtl" />
     <property name="jmeter.result.htmlName" value="${jmeter.result.html.dir}/${ReportName}${time}.html" />
     <!-- 接收测试报告的邮箱 -->
